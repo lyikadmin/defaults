@@ -1,0 +1,91 @@
+{
+  "company": "w2w",
+  "fontFamily": "\"Inter\", sans-serif",
+  "spacing": 8,
+  "loginBackground": "/assets/login_bg.png",
+  "colors": {
+    "main1": "#FFCB09",
+    "main": "#00CB09",
+    "brand3": "#1970C8","brand": "#40CB49",
+    "light": "#f7e292",
+    "black": "#000000",
+    "white": "#ffffff",
+    "grey": "#9e9e9e",
+    "error": "#d32f2f",
+    "success": "#2e7d32",
+    "warning": "#ed6c02",
+    "info": "#0288d1",
+    "contrastText": "#000000",
+
+    "sidebar": {
+      "backgroundColor": "#424242",
+      "contrastText": "#FFCB09",
+      "activeColor": "#000000",
+      "activeBackgroundColor": "#FFCB09"
+    },
+
+    "progress_bar": {
+      "progress_text": "#000"
+    },
+
+    "primary": {
+      "main": "#FFCB09",
+      "main2": "#00CB09",
+      "light3": "#f7e292",
+      "light": "#40CB49",
+      "dark": "#1565c0",
+      "contrastText": "#000000",
+      "brand": "#1970C8"
+    },
+
+    "secondary": {
+      "main3": "#1970C8",
+      "main": "#00CB09",
+      "light3": "#ba68c8",
+      "light": "#40CB49",
+      "dark": "#7b1fa2"
+    },
+
+    "text": {
+      "primary": "rgba(0, 0, 0, 0.87)",
+      "secondary": "rgba(0, 0, 0, 0.6)",
+      "disabled": "rgba(0, 0, 0, 0.38)"
+    },
+
+    "background": {
+      "default": "#F7F7F7",
+      "paper": "#ffffff"
+    },
+
+    "button": {
+      "main": {
+        "bgColor": "#FFCB09",
+        "color": "#000000",
+        "hover": "#f7e292"
+      },
+      "primary": {
+        "bgColor": "#FFCB09",
+        "color": "#000000",
+        "hover": "#f7e292"
+      },
+      "outlined": {
+        "borderColor": "#000",
+        "color": "#000",
+        "bgColor": "#ffffff"
+      },
+      "disabled": {
+        "color": "#ffffff",
+        "bgColor": "#9e9e9e",
+        "borderColor": "#9e9e9e"
+      },
+      "error": {
+        "color": "#ffffff",
+        "bgColor": "#d32f2f"
+      },
+      "success": {
+        "color": "#ffffff",
+        "bgColor": "#2e7d32"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "company_name": "LYIK",
+  "api_path": "https://forms-uat.ttkservices.com/api",
+  "digilocker_clientId": "JH168E60B6",
+  "digilocker_clientSecret": "bd4f70b64aa14614e37c",
+  "digilocker_callbackUrl": "http://localhost:3030/digi_redirect",
+  "digilocker_codeVerifier": "1QTIzQ~~tMgU.AVpL6.FF5Hdu4ytsG0~_uv0x7GY5j5g-Z~p7vtuI3KaOPQT7~wVAi",
+  "digilocker_api_path": "",
+  "login_bg_path": "/assets/login_bg.png",
+  "progress_bar": true,
+  "show_navbar": false,
+  "show_sidebar_expanded": false,
+  "show_csv_export": false,
+  "show_records_search": false,
+  "show_back_button": false
+}

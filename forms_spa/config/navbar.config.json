@@ -1,0 +1,26 @@
+{
+  "background": "linear-gradient(to right, #3B83DB,#1136B3)",
+  "showLogo": false,
+  "buttons": [
+    {
+      "label": "Home",
+      "link": "/",
+      "position": "right",
+      "type": "link",
+      "color": "primary"
+    },
+    {
+      "label": "About",
+      "link": "/about",
+      "position": "right",
+      "type": "link"
+    },
+    {
+      "label": "Contact",
+      "link": "/contact",
+      "position": "right",
+      "type": "button",
+      "color": "secondary"
+    }
+  ]
+}

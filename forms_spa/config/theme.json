@@ -1,0 +1,86 @@
+{
+  "loginBackground": "/assets/images/login_bg.png",
+  "spacing": "comfort",
+  "fontFamily": "'Inter', sans-serif",
+  "colors": {
+    "main": "#1698ca",
+    "brand": "#2862A9",
+    "light": "#30A1E0",
+    "black": "#000000",
+    "white": "#ffffff",
+    "grey": "#727272",
+    "error": "#D24D57",
+    "success": "#32A028",
+    "warning": "#F57C00",
+    "info": "#1976D2",
+    "contrastText": "#FFFFFF",
+
+    "primary": {
+      "brand": "#1136B3"
+    },
+    "secondary": {
+      "main": "#1970C8",
+      "lightold": "#1698ca", "light": "#000000"
+    },
+    "background": {
+      "secondary": "#1698ca"
+      
+    },
+    "text": {
+      "secondary": "#666666",
+      "card_title":"262D64"
+    },
+
+    "border": {
+      "primary": "#9E9E9E",
+      "secondary": "#C4C4C4",
+      "focus": "#1970C8"
+    },
+    "status": {
+      "success": "#32A028",
+      "error": "#D32F2F",
+      "warning": "#F57C00",
+      "info": "#1976D2"
+    },
+    "button": {
+      "main": {
+        "bgColor_": "#1698ca","bgColor":"#3bb9eb",
+        "color": "#fff"
+      },
+      "primary": {
+        "bgColor_": "#30A1E0","bgColor":"#3bb9eb",
+        "color": "#fff"
+      },
+      "outlined": {
+        "borderColor": "#30A1E0",
+        "color": "#30A1E0",
+        "bgColor": "#FFFFFF"
+      },
+      "disabled": {
+        "color": "#fff",
+        "bgColor": "#727272",
+        "borderColor": "#CDCDCD"
+      },
+      "error": {
+        "color": "#fff",
+        "bgColor": "#D24D57"
+      },
+      "success": {
+        "color": "#fff",
+        "bgColor": "#32A028"
+      }
+    },
+    "cards": {
+      "main":"#262D64"
+    },
+    "sidebar": {
+      "backgroundColorold": "#1698ca","backgroundColor": "#3bb9eb",
+      "contrastText": "#ffffff",
+      "activeColor": "#1698ca",
+      "activeBackgroundColor": "#FFFFFF"
+    },
+    "progress_bar": {
+      "progress_text": "#000000"
+    }
+  }
+}
