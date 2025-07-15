@@ -1,3 +1,29 @@
+commit f567876ebed78a5230b99f711b21f4ed81a09674
+Merge: 162549d f26305a
+Author: prajwal.sanesi <prajwal.sanesi@lyik.com>
+Date:   Tue Jul 15 11:43:00 2025 +0530
+
+    Merge branch 'fix/20250714/ph/save_changes' of https://github.com/lyikadmin/lyik_forms_spa into fix/20250714/ph/save_changes
+
+commit 162549d80e37ea867092a827ca5eded9f41b2947
+Author: prajwal.sanesi <prajwal.sanesi@lyik.com>
+Date:   Tue Jul 15 11:42:47 2025 +0530
+
+    Grey out [i] button
+
+commit f26305a2122db60a8c106d770506bcad46c27490
+Merge: b724dce 1642e9b
+Author: Hebbar <phebbar@lyik.com>
+Date:   Tue Jul 15 11:40:16 2025 +0530
+
+    Merge branch 'fix/20250714/ph/save_changes' of github.com.work:lyikadmin/w2w_enterprise_spa into fix/20250714/ph/save_changes
+
+commit b724dce89c94c52cf68f8eb452d677cc7e42b1dc
+Author: Hebbar <phebbar@lyik.com>
+Date:   Tue Jul 15 11:39:10 2025 +0530
+
+    fix(InfoPane): correct isHidden logic and clean up button styles
+
 commit 1642e9bfce7b5fcfc024b420c47e908b5b48ffa8
 Merge: b05074a 9d8206f
 Author: prajwal.sanesi <prajwal.sanesi@lyik.com>
@@ -12,29 +38,3 @@ Date:   Mon Jul 14 19:59:59 2025 +0530
     Overlay circular progress over 100% circle
 
 commit 9d8206f1caf3f070fc48924f2ab39c0f3b676dbe
-Author: Hebbar <phebbar@lyik.com>
-Date:   Mon Jul 14 19:09:09 2025 +0530
-
-    feat(PaymentsRedirectPage): enhance payment processing with pg_response handling
-
-commit 5a099813ed7127eb239de54c1b72ba552d5fc8c8
-Author: prajwal.sanesi <prajwal.sanesi@lyik.com>
-Date:   Mon Jul 14 16:57:13 2025 +0530
-
-    Fix textarea title
-
-commit 390c3cfaa8180f04342bf74f0ae9765f954728b3
-Merge: 90720d8 314441b
-Author: prajwal.sanesi <prajwal.sanesi@lyik.com>
-Date:   Mon Jul 14 16:45:10 2025 +0530
-
-    Merge branch 'fix/20250714/ph/save_changes' of https://github.com/lyikadmin/lyik_forms_spa into fix/20250714/ph/save_changes
-
-commit 90720d89be15a8d48082729436f8203bbbd937c6
-Author: prajwal.sanesi <prajwal.sanesi@lyik.com>
-Date:   Mon Jul 14 16:44:52 2025 +0530
-
-    Home page adjustments
-
-commit 314441b61c543635cb01aed0ec0cb7e3f43ef7ef
-Author: Hebbar <phebbar@lyik.com>
