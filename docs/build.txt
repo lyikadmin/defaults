@@ -1,3 +1,34 @@
+commit 50afcafdcaa1d84a16fddbe2d661639def54e51a
+Author: Hebbar <phebbar@lyik.com>
+Date:   Tue Jul 15 12:21:43 2025 +0530
+
+    style(Dropdown): improve color styling for disabled state and update MenuItem color
+
+commit 6b960b5d8404232d3627f77092da45a08c36e98a
+Author: Hebbar <phebbar@lyik.com>
+Date:   Tue Jul 15 12:20:02 2025 +0530
+
+    style(DatePicker): add styles for disabled and unselectable dates
+
+commit dbe14a1790d9dd2306a24a7d88633b7eed205bea
+Author: Hebbar <phebbar@lyik.com>
+Date:   Tue Jul 15 11:56:40 2025 +0530
+
+    feat(DatePicker): add validation for future dates and update minDate prop
+
+commit fe6962c4e1bf97e4b2a3a11ea043e2e8e9133762
+Merge: 03e8ca0 f567876
+Author: Hebbar <phebbar@lyik.com>
+Date:   Tue Jul 15 11:52:33 2025 +0530
+
+    Merge branch 'fix/20250714/ph/save_changes' of github.com.work:lyikadmin/w2w_enterprise_spa into fix/20250714/ph/save_changes
+
+commit 03e8ca04dffe7a11aedeb8a7fe46cd1b97601e5a
+Author: Hebbar <phebbar@lyik.com>
+Date:   Tue Jul 15 11:52:08 2025 +0530
+
+    fix(InfoPane): add check for hidden field boolean type
+
 commit f567876ebed78a5230b99f711b21f4ed81a09674
 Merge: 162549d f26305a
 Author: prajwal.sanesi <prajwal.sanesi@lyik.com>
@@ -7,34 +38,3 @@ Date:   Tue Jul 15 11:43:00 2025 +0530
 
 commit 162549d80e37ea867092a827ca5eded9f41b2947
 Author: prajwal.sanesi <prajwal.sanesi@lyik.com>
-Date:   Tue Jul 15 11:42:47 2025 +0530
-
-    Grey out [i] button
-
-commit f26305a2122db60a8c106d770506bcad46c27490
-Merge: b724dce 1642e9b
-Author: Hebbar <phebbar@lyik.com>
-Date:   Tue Jul 15 11:40:16 2025 +0530
-
-    Merge branch 'fix/20250714/ph/save_changes' of github.com.work:lyikadmin/w2w_enterprise_spa into fix/20250714/ph/save_changes
-
-commit b724dce89c94c52cf68f8eb452d677cc7e42b1dc
-Author: Hebbar <phebbar@lyik.com>
-Date:   Tue Jul 15 11:39:10 2025 +0530
-
-    fix(InfoPane): correct isHidden logic and clean up button styles
-
-commit 1642e9bfce7b5fcfc024b420c47e908b5b48ffa8
-Merge: b05074a 9d8206f
-Author: prajwal.sanesi <prajwal.sanesi@lyik.com>
-Date:   Mon Jul 14 20:00:13 2025 +0530
-
-    Merge branch 'fix/20250714/ph/save_changes' of https://github.com/lyikadmin/lyik_forms_spa into fix/20250714/ph/save_changes
-
-commit b05074aed7b61e3f6f09ed247ce83887495420c1
-Author: prajwal.sanesi <prajwal.sanesi@lyik.com>
-Date:   Mon Jul 14 19:59:59 2025 +0530
-
-    Overlay circular progress over 100% circle
-
-commit 9d8206f1caf3f070fc48924f2ab39c0f3b676dbe
